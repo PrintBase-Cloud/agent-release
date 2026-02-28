@@ -1,0 +1,13 @@
+{
+  "version": "agent-v-0.1.1",
+  "published_at": "2026-02-28T11:31:18Z",
+  "files": [
+      {"name":"agent-cli-darwin-amd64"},
+      {"name":"agent-client-darwin-arm64.zip"},
+      {"name":"agent-cli-darwin-arm64"},
+      {"name":"agent-client-windows-amd64.zip"},
+      {"name":"agent-cli-linux-amd64"},
+      {"name":"agent-cli-windows-arm64.exe"},
+      {"name":"agent-cli-windows-amd64.exe"}
+  ]
+}
