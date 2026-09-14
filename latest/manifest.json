@@ -1,21 +1,21 @@
 {
-  "version": "agent-v0.1.49",
-  "published_at": "2026-09-14T09:38:30Z",
+  "version": "agent-v0.1.48",
+  "published_at": "2026-08-24T13:04:57Z",
   "files": [
-      {"name":"agent-cli-darwin-amd64"},
+      {"name":"agent-client-darwin-amd64.zip"},
+      {"name":"agent-client-windows-arm64.msix"},
+      {"name":"agent-client-windows-amd64.msix"},
+      {"name":"agent-client-windows-arm64.zip"},
+      {"name":"agent-client-darwin-arm64.zip"},
       {"name":"agent-cli-windows-arm64.exe"},
       {"name":"agent-client-windows-arm64.msixupload"},
-      {"name":"agent-cli-linux-amd64"},
+      {"name":"printbase.exe"},
       {"name":"agent-cli-darwin-arm64"},
-      {"name":"agent-cli-windows-amd64.exe"},
-      {"name":"agent-client-darwin-amd64.zip"},
-      {"name":"agent-client-windows-amd64.msix"},
-      {"name":"agent-client-darwin-arm64.zip"},
       {"name":"AppxManifest.xml"},
+      {"name":"agent-cli-darwin-amd64"},
       {"name":"agent-client-windows-amd64.msixupload"},
       {"name":"agent-client-windows-amd64.zip"},
-      {"name":"printbase.exe"},
-      {"name":"agent-client-windows-arm64.zip"},
-      {"name":"agent-client-windows-arm64.msix"}
+      {"name":"agent-cli-linux-amd64"},
+      {"name":"agent-cli-windows-amd64.exe"}
   ]
 }

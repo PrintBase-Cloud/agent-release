@@ -7,7 +7,7 @@
   <Identity
     Name="CognivexLabs.PrintBase"
     Publisher="CN=C0B008BF-0CF9-4BBE-829C-A1AE47ED822D"
-    Version="0.1.49.0"
+    Version="0.1.48.0"
     ProcessorArchitecture="arm64" />
   <Properties>
     <DisplayName>PrintBase</DisplayName>
