@@ -1,0 +1,8 @@
+{
+  "version": "0.1.53",
+  "notes": "## English\r\n\r\n- Redesigned desktop interface with sidebar navigation and light and dark appearances.\r\n- Compact printer, job and log tables show more records on screen.\r\n- Automatic update checks with signed downloads and an Install \u0026 Restart action.\r\n- Existing account settings and printing connections are preserved.\r\n\r\n## 简体中文\r\n\r\n- 全新桌面界面，采用侧边栏导航，支持浅色和深色外观。\r\n- 打印机、任务和日志改为紧凑表格，一屏可查看更多记录。\r\n- 自动检查新版本，校验更新包签名，支持安装并重启。\r\n- 保留已有账户设置和打印连接。\r\n\r\n## 繁體中文\r\n\r\n- 全新桌面介面，採用側邊欄導覽，支援淺色和深色外觀。\r\n- 印表機、工作和日誌改為緊湊表格，一個畫面可查看更多記錄。\r\n- 自動檢查新版本，驗證更新套件簽章，支援安裝並重新啟動。\r\n- 保留現有帳戶設定和列印連線。\r\n",
+  "date": "2026-10-10T16:36:53Z",
+  "url": "https://printbase.oss-cn-hongkong.aliyuncs.com/agent-release/releases/agent-v0.1.53/agent-client-mygo-0.1.53-windows-arm64.tar.gz",
+  "size": 9587888,
+  "signature": "IDx3ye5rps89l+Qizju/1OeftcCX971ROKo5zCAnjZcPdjyymBVrvnJlDoLmBHF1OlhqLgh5Pizw6OB/VFTECg=="
+}
