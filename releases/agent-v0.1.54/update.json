@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "version": "0.1.54",
+  "publishedAt": "2026-10-12T02:49:07Z",
+  "artifacts": [
+    {"url":"agent-client-darwin-amd64.zip","filename":"agent-client-darwin-amd64.zip","platform":"darwin","arch":"amd64","size":6706073,"digestAlgo":"sha256","digest":"QfNCQ+aZzKnOlkEN+9wTIXymnI6n0IhZwgQ1h6C4eHQ="},
+    {"url":"agent-client-darwin-arm64.zip","filename":"agent-client-darwin-arm64.zip","platform":"darwin","arch":"arm64","size":6069804,"digestAlgo":"sha256","digest":"c4AX72rjSYu4KGm7/0eM25Z2htJqXL0FGhrmcpGMaCQ="},
+    {"url":"agent-client-windows-amd64.zip","filename":"agent-client-windows-amd64.zip","platform":"windows","arch":"amd64","size":10166231,"digestAlgo":"sha256","digest":"PYy1Lywh0EbsBK9Dq2dgP5Y/kxYQNzFw0C+bnz6TiAE="},
+    {"url":"agent-client-windows-arm64.zip","filename":"agent-client-windows-arm64.zip","platform":"windows","arch":"arm64","size":9250104,"digestAlgo":"sha256","digest":"axYBZVQUm2xQg1yENK1HyfFX+8wJkuILMt6CwbHCgc4="}
+  ]
+}
