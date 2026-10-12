@@ -1,0 +1,8 @@
+{
+  "version": "0.1.55",
+  "notes": "## English\n\n- Fixed sidebar text changing size when switching between pages.\n- Redesigned Settings with compact groups, aligned controls and switches for background services.\n- Replaced the sidebar placeholder icon with the official PrintBase logo, with improved visibility in dark mode.\n\n## 简体中文\n\n- 修复切换页面时侧边栏字号变化的问题。\n- 重新设计设置页，采用紧凑分组、统一对齐的控件和后台服务开关。\n- 侧边栏换用正式 PrintBase Logo，并改善深色模式下的显示效果。\n\n## 繁體中文\n\n- 修復切換頁面時側邊欄字體大小變化的問題。\n- 重新設計設定頁，採用緊湊分組、統一對齊的控制項和背景服務開關。\n- 側邊欄換用正式 PrintBase Logo，並改善深色模式下的顯示效果。\n",
+  "date": "2026-10-12T04:08:55Z",
+  "url": "https://printbase.oss-cn-hongkong.aliyuncs.com/agent-release/releases/agent-v0.1.55/agent-client-mygo-0.1.55-darwin-arm64.tar.gz",
+  "size": 6693044,
+  "signature": "/aB8kx/sBoRIfUkiptWQX2OyQQaiZIAaiYMMMbIeUvqC2QQkqDsB3eGp/KNys26llmY4PuDNsf4gKG0ddB0IBA=="
+}

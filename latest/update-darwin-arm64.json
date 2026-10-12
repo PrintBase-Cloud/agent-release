@@ -1,8 +1,8 @@
 {
-  "version": "0.1.54",
-  "notes": "## English\n\n- Find printers and recent jobs by name, ID, model or error, with result counts and clear empty states.\n- Refined compact tables, status labels and text contrast for easier scanning.\n- Clearer selection of server regions and sign-in methods, plus feedback after copying.\n- Copy only the logs matching your search and follow update downloads with a progress bar.\n- Updated the desktop interface framework with rendering and input improvements.\n\n## 简体中文\n\n- 支持按名称、ID、型号或错误搜索打印机及近期任务，显示结果数量和空状态提示。\n- 优化紧凑表格、状态标签和文字对比度，浏览长列表更清晰。\n- 服务器节点和登录方式的选中状态更明确，复制操作增加反馈。\n- 日志仅复制当前筛选结果，软件下载更新增加进度条。\n- 升级桌面界面框架，包含渲染和输入交互改进。\n\n## 繁體中文\n\n- 支援依名稱、ID、型號或錯誤搜尋印表機及近期工作，顯示結果數量和空狀態提示。\n- 優化緊湊表格、狀態標籤和文字對比度，瀏覽長清單更清晰。\n- 伺服器節點和登入方式的選取狀態更明確，複製操作新增回饋。\n- 日誌僅複製目前篩選結果，軟體下載更新新增進度列。\n- 升級桌面介面框架，包含繪製和輸入互動改進。\n",
-  "date": "2026-10-12T02:43:40Z",
-  "url": "https://printbase.oss-cn-hongkong.aliyuncs.com/agent-release/releases/agent-v0.1.54/agent-client-mygo-0.1.54-darwin-arm64.tar.gz",
-  "size": 6338618,
-  "signature": "LtNNgLz5DgHlbZoMWAkJH4HD6tqXBNvgq+1UruHb4CMMGEWCeoXIrQU/CO9NuRJ/LSBFgrjv5Yfci5iitZqGBg=="
+  "version": "0.1.55",
+  "notes": "## English\n\n- Fixed sidebar text changing size when switching between pages.\n- Redesigned Settings with compact groups, aligned controls and switches for background services.\n- Replaced the sidebar placeholder icon with the official PrintBase logo, with improved visibility in dark mode.\n\n## 简体中文\n\n- 修复切换页面时侧边栏字号变化的问题。\n- 重新设计设置页，采用紧凑分组、统一对齐的控件和后台服务开关。\n- 侧边栏换用正式 PrintBase Logo，并改善深色模式下的显示效果。\n\n## 繁體中文\n\n- 修復切換頁面時側邊欄字體大小變化的問題。\n- 重新設計設定頁，採用緊湊分組、統一對齊的控制項和背景服務開關。\n- 側邊欄換用正式 PrintBase Logo，並改善深色模式下的顯示效果。\n",
+  "date": "2026-10-12T04:08:55Z",
+  "url": "https://printbase.oss-cn-hongkong.aliyuncs.com/agent-release/releases/agent-v0.1.55/agent-client-mygo-0.1.55-darwin-arm64.tar.gz",
+  "size": 6693044,
+  "signature": "/aB8kx/sBoRIfUkiptWQX2OyQQaiZIAaiYMMMbIeUvqC2QQkqDsB3eGp/KNys26llmY4PuDNsf4gKG0ddB0IBA=="
 }
