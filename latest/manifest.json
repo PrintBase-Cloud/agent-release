@@ -1,18 +1,19 @@
 {
-  "version": "agent-v0.1.55",
-  "published_at": "2026-10-12T04:15:10Z",
+  "version": "agent-v0.1.57",
+  "published_at": "2026-10-15T10:40:58Z",
   "files": [
       {"name":"agent-client-darwin-amd64.zip"},
+      {"name":"agent-client-mygo-0.1.57-windows-amd64.tar.gz"},
       {"name":"agent-client-windows-amd64.zip"},
-      {"name":"agent-client-mygo-0.1.55-windows-arm64.tar.gz"},
-      {"name":"agent-client-mygo-0.1.55-darwin-arm64.tar.gz"},
       {"name":"update-windows-arm64.json"},
+      {"name":"agent-client-mygo-0.1.57-darwin-arm64.tar.gz"},
       {"name":"agent-cli-windows-arm64.exe"},
+      {"name":"agent-client-mygo-0.1.57-darwin-amd64.tar.gz"},
       {"name":"agent-client-darwin-arm64.zip"},
       {"name":"agent-client-windows-arm64.zip"},
       {"name":"update-darwin-arm64.json"},
       {"name":"agent-cli-darwin-arm64"},
-      {"name":"agent-client-mygo-0.1.55-windows-amd64.tar.gz"},
+      {"name":"agent-client-mygo-0.1.57-windows-arm64.tar.gz"},
       {"name":"agent-client-windows-arm64.msix"},
       {"name":"update-windows-amd64.json"},
       {"name":"agent-client-windows-amd64.msixupload"},
@@ -21,7 +22,6 @@
       {"name":"agent-client-windows-amd64.msix"},
       {"name":"agent-cli-darwin-amd64"},
       {"name":"update-darwin-amd64.json"},
-      {"name":"agent-client-windows-arm64.msixupload"},
-      {"name":"agent-client-mygo-0.1.55-darwin-amd64.tar.gz"}
+      {"name":"agent-client-windows-arm64.msixupload"}
   ]
 }

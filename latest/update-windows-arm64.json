@@ -1,8 +1,8 @@
 {
-  "version": "0.1.55",
-  "notes": "## English\r\n\r\n- Fixed sidebar text changing size when switching between pages.\r\n- Redesigned Settings with compact groups, aligned controls and switches for background services.\r\n- Replaced the sidebar placeholder icon with the official PrintBase logo, with improved visibility in dark mode.\r\n\r\n## 简体中文\r\n\r\n- 修复切换页面时侧边栏字号变化的问题。\r\n- 重新设计设置页，采用紧凑分组、统一对齐的控件和后台服务开关。\r\n- 侧边栏换用正式 PrintBase Logo，并改善深色模式下的显示效果。\r\n\r\n## 繁體中文\r\n\r\n- 修復切換頁面時側邊欄字體大小變化的問題。\r\n- 重新設計設定頁，採用緊湊分組、統一對齊的控制項和背景服務開關。\r\n- 側邊欄換用正式 PrintBase Logo，並改善深色模式下的顯示效果。\r\n",
-  "date": "2026-10-12T04:11:46Z",
-  "url": "https://printbase.oss-cn-hongkong.aliyuncs.com/agent-release/releases/agent-v0.1.55/agent-client-mygo-0.1.55-windows-arm64.tar.gz",
-  "size": 9756575,
-  "signature": "OYz/MWUUAHtN4VSa8qR1MY8sRy5ObIz+iNW19dhcIkQzKBvvStuXXOA/1GppSGf3v205xoLuxdZSBMBLBAoBDw=="
+  "version": "0.1.57",
+  "notes": "## English\r\n\r\n- Fixed Windows treating successful built-in PDF prints as failures, which opened the system's default PDF app and could print the document twice.\r\n- If a PDF job fails partway, PrintBase now cancels the partial job instead of letting it print, and only then retries with the system PDF app.\r\n- Prevented simultaneous PDF jobs on different printers from interfering with each other.\r\n- The log now records which engine printed each PDF, how long it took, and why the built-in engine fell back.\r\n\r\n## 简体中文\r\n\r\n- 修复 Windows 将内置 PDF 引擎的成功打印误判为失败、进而调起系统默认 PDF 程序并可能重复打印的问题。\r\n- PDF 任务中途失败时，先取消已进入队列的残缺任务，再改用系统 PDF 程序打印。\r\n- 避免多台打印机同时打印 PDF 时互相干扰。\r\n- 日志新增每次 PDF 打印使用的引擎、耗时，以及内置引擎回退的原因。\r\n\r\n## 繁體中文\r\n\r\n- 修復 Windows 將內建 PDF 引擎的成功列印誤判為失敗、進而開啟系統預設 PDF 程式並可能重複列印的問題。\r\n- PDF 工作中途失敗時，先取消已進入佇列的不完整工作，再改用系統 PDF 程式列印。\r\n- 避免多台印表機同時列印 PDF 時互相干擾。\r\n- 記錄檔新增每次 PDF 列印使用的引擎、耗時，以及內建引擎改用備援的原因。\r\n",
+  "date": "2026-10-15T10:29:33Z",
+  "url": "https://printbase.oss-cn-hongkong.aliyuncs.com/agent-release/releases/agent-v0.1.57/agent-client-mygo-0.1.57-windows-arm64.tar.gz",
+  "size": 9746308,
+  "signature": "wnANf7+a3L+FeBR6VKutJ2U89XHRUTsE/QOPeJG16223E4cMzXFsWI3Wo3cEXt9F2pGhVgqDXp/v6XXYyCF7DA=="
 }
