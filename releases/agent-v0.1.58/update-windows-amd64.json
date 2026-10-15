@@ -1,0 +1,8 @@
+{
+  "version": "0.1.58",
+  "notes": "## English\r\n\r\n- macOS downloads now include a DMG installer for Apple Silicon and Intel Macs.\r\n- Opening PrintBase outside Applications automatically installs and opens it there. If system-wide installation is unavailable, it uses your personal Applications folder.\r\n- Existing installations are opened without being overwritten. Once installed in a writable Applications folder, future updates can be installed directly inside PrintBase.\r\n\r\n## 简体中文\r\n\r\n- macOS 新增 DMG 安装包，支持 Apple Silicon 和 Intel Mac。\r\n- 从“应用程序”之外打开 PrintBase 时，会自动安装并打开；无法安装到系统目录时，使用当前用户的“应用程序”目录。\r\n- 已有安装会直接打开，不覆盖原有应用。安装到可写的“应用程序”目录后，后续版本可在 PrintBase 内直接更新。\r\n\r\n## 繁體中文\r\n\r\n- macOS 新增 DMG 安裝套件，支援 Apple Silicon 和 Intel Mac。\r\n- 從「應用程式」之外開啟 PrintBase 時，會自動安裝並開啟；無法安裝到系統目錄時，使用目前使用者的「應用程式」目錄。\r\n- 已有安裝會直接開啟，不覆寫原有應用程式。安裝到可寫入的「應用程式」目錄後，後續版本可在 PrintBase 內直接更新。\r\n",
+  "date": "2026-10-15T11:18:37Z",
+  "url": "https://printbase.oss-cn-hongkong.aliyuncs.com/agent-release/releases/agent-v0.1.58/agent-client-mygo-0.1.58-windows-amd64.tar.gz",
+  "size": 10675325,
+  "signature": "T2VPhb2QG+hqYaf13dROeNTx8cUgIPLAiiddSWK6RogOhHo17VviXVEtkP7Uo2vbJW1K903/+JHyV2Tu4v5WDQ=="
+}
